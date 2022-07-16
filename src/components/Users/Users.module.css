@@ -1,0 +1,8 @@
+.userlink {
+    color: rgb(26, 98, 231);
+}
+
+.userlink:hover {
+    color: rgb(5, 58, 128);
+    text-decoration: underline;
+}
